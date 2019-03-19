@@ -10,9 +10,9 @@ $config = [
     'region' => 'sh',
     'credentials' => [
 //        'appId' => '',
-        'secretId' => 'AKIDvUwddW0DqKgtQtCHjGgw0sa9bsxomlgE',
-        'secretKey' => 'cVIetwmFXdgaMvJYg4JQL5c4ubAXijYb',
-//        'token' => 'be8683cbd5e92141a5fb989690a935af14ab4bc530001',
+        'secretId' => 'xxxxxx',
+        'secretKey' => 'xxxxx',
+//        'token' => 'xxxx',
     ],
     'timeout' => 3600
 ];
